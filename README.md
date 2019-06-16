@@ -128,16 +128,14 @@ body was no longer able to take the harsh impact of the sport.</p>
 <h8>REFERENCES</h8>
 
 <p>16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. 
-   https://www.16personalities.com/free-personality-test
-
+<a href="https://www.16personalities.com/free-personality-test"></a> 
+   
 
    EducationPlanner.Org. 2011. What’s Your Learning Style?. Pennsylvania Higher Education Assistance Agency. 
-   http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
-
+<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml"></a> 
 
    Mindtools.com. 2019. How Creative Are You?. Mind Tools Essential skills for an Excellent Career. 
-   https://www.mindtools.com/pages/article/creativity-quiz.htm
-
+<a href="https://www.mindtools.com/pages/article/creativity-quiz.htm"></a>    
 
    Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. 
-   https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/</p>
+<a href="https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/"></a></p>
