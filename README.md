@@ -35,7 +35,7 @@ body was no longer able to take the harsh impact of the sport.</p>
 
 <h4>MY IDEAL JOB</h4>
 
-<a href="https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc">https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc</a> 
+<a href="https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc">Senior Financial Advisor - Family Office Environment - HNW</a> 
 
 <img src="job.jpg" style="width:100%; height:100%">
 
