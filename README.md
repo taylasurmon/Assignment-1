@@ -35,11 +35,11 @@ body was no longer able to take the harsh impact of the sport.</p>
 
 <h4>MY IDEAL JOB</h4>
 
-<p>https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc
+<a>href="url">https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc</a> 
 
 <img src="job.jpg" style="width:100%; height:100%">
 
-   The role as a Senior Financial Advisor – Family Office Environment, is a position that highly interests me. This is a role that ideal to 
+<p>The role as a Senior Financial Advisor – Family Office Environment, is a position that highly interests me. This is a role that ideal to 
    showcase my excellent track record of Consultative Sale Skills, being able to hold myself accountable for the results I provide, wow my colleagues 
    with my outstanding communication, presentation and interpersonal skills as well as show that I can work individually as well as in a team 
    environment. Although at this point in time I have very limited knowledge in this industry, I have worked as an Insurance Brokers for 3 years and 
