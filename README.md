@@ -55,14 +55,17 @@ body was no longer able to take the harsh impact of the sport.</p>
 
    Creativity Test (Courtesy of MindTools)
    
+   
    <img src="creativity.jpg" style="width:100%; height:100%">
 
    
    What is your Learning Style (Courtesyof EducationPlanner.org
    
+   
    <img src="learning style.jpg" style="width:100%; height:100%">
    <img src="auditory.jpg" style="width:100%; height:100%">
    <img src="visual.jpg" style="width:100%; height:100%"></p>
+   
    
 <h6>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h6>
 
