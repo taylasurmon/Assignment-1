@@ -21,7 +21,7 @@ body was no longer able to take the harsh impact of the sport.</p>
 <h3>HOW MY INTEREST IN IT BEGAN</h3>
 
 <p>Growing up I would say that I was one of the less fortunate kids in my area. We didn’t have high tech things such as dial-up broadband. 
-   We dd however have a computer that looked like something you would pull from the 1980’s. My interest in IT started when I was playing around 
+   We did however have a computer that looked like something you would pull from the 1980’s. My interest in IT started when I was playing around 
    with a simple product which was on nearly every computer called Paint. Paint was my life. At the young age of 6 I would sit in our spare room 
    on the computer playing around with paint for hours on end, trying to work out how it worked and all the different aspects of it. 
    To some people you may be thinking “this has nothing to do with IT”, but to me it does. This is what started my interest in mobile phones and 
