@@ -37,7 +37,7 @@ body was no longer able to take the harsh impact of the sport.</p>
 
 <p>https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc
 
-<img src="job.jpg">
+<img src="desktop_images/job.jpg" style=width:100%; height:auto>
 
    The role as a Senior Financial Advisor – Family Office Environment, is a position that highly interests me. This is a role that ideal to 
    showcase my excellent track record of Consultative Sale Skills, being able to hold myself accountable for the results I provide, wow my colleagues 
@@ -50,19 +50,19 @@ body was no longer able to take the harsh impact of the sport.</p>
 
 <p>The Myers and Briggs Personality Test (Courtesy of 16Personalities)
 
-   <img src="personality.jpg">
-   <img src="your personality.jpg">
+   <img src="desktop_images/personality.jpg" style=width:100%; height:auto>
+   <img src="desktop_images/your personality.jpg" style=width:100%; height:auto>
 
    Creativity Test (Courtesy of MindTools)
    
-   <img src="creativity.jpg">
+   <img src="desktop_images/creativity.jpg" style=width:100%; height:auto>
 
    
    What is your Learning Style (Courtesyof EducationPlanner.org
    
-   <img src="learning style.jpg">
-   <img src="auditory.jpg">
-   <img src="visual.jpg"></p>
+   <img src="desktop_images/learning style.jpg" style=width:100%; height:auto>
+   <img src="desktop_images/auditory.jpg" style=width:100%; height:auto>
+   <img src="desktop_images/visual.jpg" style=width:100%; height:auto></p>
    
 <h6>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h6>
 
@@ -141,5 +141,3 @@ body was no longer able to take the harsh impact of the sport.</p>
 
    Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. 
    https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/</p>
-
-</html>
