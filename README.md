@@ -46,28 +46,28 @@ body was no longer able to take the harsh impact of the sport.</p>
    currently working in a big 4 bank as a personal banker. By participating and completing my Bachelor of Business majoring in Financial Planning I 
    believe that this is just one small leap that I need to take to begin my journey to be a successful Senior Financial Advisor.</p>
    
-<h5>LEARNING STYLES</h5>
+<h5>PERSONALITY, CREATIVITY AND LEARNING STYLE TESTS</h5>
 
-<p>The Myers and Briggs Personality Test (Courtesy of 16Personalities)
+<h6>The Myers and Briggs Personality Test (Courtesy of 16Personalities)</h6>
 
    <img src="personality.jpg" style="width:100%; height:100%">
+   
    <img src="your personality.jpg" style="width:100%; height:100%">
 
-   Creativity Test (Courtesy of MindTools)
-   
+<h7>Creativity Test (Courtesy of MindTools)</h7>
    
    <img src="creativity.jpg" style="width:100%; height:100%">
 
    
-   What is your Learning Style (Courtesyof EducationPlanner.org
-   
+<h8>What is your Learning Style (Courtesyof EducationPlanner.org</h8>
    
    <img src="learning style.jpg" style="width:100%; height:100%">
+   
    <img src="auditory.jpg" style="width:100%; height:100%">
-   <img src="visual.jpg" style="width:100%; height:100%"></p>
    
+   <img src="visual.jpg" style="width:100%; height:100%">
    
-<h6>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h6>
+<h9>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h9>
 
 <p>• Taking the Myers and Briggs personality test, didn’t really explain things about myself that I didn’t already know, 
      however I did learn that when it comes to approaching work, planning and decision making I am what they call “Judging” 
@@ -82,7 +82,7 @@ body was no longer able to take the harsh impact of the sport.</p>
      not only did I have to hear my teachers or peers say something, I also had to read it either out loud or in my head before I 
 	 fully understood what I was learning.</p>
 
-<h7>MY PROJECT IDEA - MISUSE OF PRESCRIPTION DRUGS</h7>
+<h10>MY PROJECT IDEA - MISUSE OF PRESCRIPTION DRUGS</h10>
 
 <p>In Australia the use of prescription drugs is an increasing problem. Pharmaceutical drugs have been the highest recurrent contributor to 
    overdose deaths within Australia. Australians who are affected by the dependence of prescription drugs find themselves going from doctor to 
@@ -128,20 +128,19 @@ body was no longer able to take the harsh impact of the sport.</p>
    community. This would then further assist doctors with being able to see those patients who truly need their care and attention and reduce 
    the number of pointless visits from prescription drug abusers.</p>
    
-<h8>REFERENCES</h8>
+<h11>REFERENCES</h11>
 
-<p> • 16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. 
+<p>16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. 
 <a href="https://www.16personalities.com/free-personality-test">Free Personality Test</a> 
    
-   
-    • EducationPlanner.Org. 2011. What’s Your Learning Style?. Pennsylvania Higher Education Assistance Agency. 
+
+   EducationPlanner.Org. 2011. What’s Your Learning Style?. Pennsylvania Higher Education Assistance Agency. 
 <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">What's Your Learning Style? 20 Questions</a> 
 
-
-    • Mindtools.com. 2019. How Creative Are You?. Mind Tools Essential skills for an Excellent Career. 
+   Mindtools.com. 2019. How Creative Are You?. Mind Tools Essential skills for an Excellent Career. 
 <a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">How Creative Are You?</a>    
 
-
-    • Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. 
+   Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. 
 <a href="https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/">Prescription drug abuse – A timely update</a></p>
+
 </html>
