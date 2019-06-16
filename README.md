@@ -37,7 +37,7 @@ body was no longer able to take the harsh impact of the sport.</p>
 
 <p>https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc
 
-<img src="desktop_images/job.jpg" style="width:100%; height:100%">
+<img src="job.jpg" style="width:100%; height:100%">
 
    The role as a Senior Financial Advisor – Family Office Environment, is a position that highly interests me. This is a role that ideal to 
    showcase my excellent track record of Consultative Sale Skills, being able to hold myself accountable for the results I provide, wow my colleagues 
@@ -50,19 +50,19 @@ body was no longer able to take the harsh impact of the sport.</p>
 
 <p>The Myers and Briggs Personality Test (Courtesy of 16Personalities)
 
-   <img src="desktop_images/personality.jpg" style="width:100%; height:100%">
-   <img src="desktop_images/your personality.jpg" style="width:100%; height:100%">
+   <img src="personality.jpg" style="width:100%; height:100%">
+   <img src="your personality.jpg" style="width:100%; height:100%">
 
    Creativity Test (Courtesy of MindTools)
    
-   <img src="desktop_images/creativity.jpg" style="width:100%; height:100%">
+   <img src="creativity.jpg" style="width:100%; height:100%">
 
    
    What is your Learning Style (Courtesyof EducationPlanner.org
    
-   <img src="desktop_images/learning style.jpg" style="width:100%; height:100%">
-   <img src="desktop_images/auditory.jpg" style="width:100%; height:100%">
-   <img src="desktop_images/visual.jpg" style="width:100%; height:100%"></p>
+   <img src="learning style.jpg" style="width:100%; height:100%">
+   <img src="auditory.jpg" style="width:100%; height:100%">
+   <img src="visual.jpg" style="width:100%; height:100%"></p>
    
 <h6>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h6>
 
