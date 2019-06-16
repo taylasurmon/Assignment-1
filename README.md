@@ -128,16 +128,14 @@ body was no longer able to take the harsh impact of the sport.</p>
 <h8>REFERENCES</h8>
 
 <p>16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. 
-<a href="https://www.16personalities.com/free-personality-test">https://www.16personalities.com/free-personality-test</a> 
+<a href="https://www.16personalities.com/free-personality-test">Free Personality Test</a> 
    
-
    EducationPlanner.Org. 2011. What’s Your Learning Style?. Pennsylvania Higher Education Assistance Agency. 
-<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a> 
+<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">What's Your Learning Style? 20 Questions</a> 
 
    Mindtools.com. 2019. How Creative Are You?. Mind Tools Essential skills for an Excellent Career. 
-<a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">https://www.mindtools.com/pages/article/creativity-quiz.htm</a>    
+<a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">How Creative Are You?</a>    
 
    Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. 
-<a href="https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/">https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/</a></p>
-
+<a href="https://www.racgp.org.au/afp/2016/december/prescription-drug-abuse-a-timely-update/">Prescription drug abuse – A timely update</a></p>
 </html>
