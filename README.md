@@ -67,7 +67,7 @@ body was no longer able to take the harsh impact of the sport.</p>
    
    <img src="visual.jpg" style="width:100%; height:100%">
    
-<h6>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h6>
+<h1>WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES</h1>
 
 <p>• Taking the Myers and Briggs personality test, didn’t really explain things about myself that I didn’t already know, 
      however I did learn that when it comes to approaching work, planning and decision making I am what they call “Judging” 
@@ -82,7 +82,7 @@ body was no longer able to take the harsh impact of the sport.</p>
      not only did I have to hear my teachers or peers say something, I also had to read it either out loud or in my head before I 
 	 fully understood what I was learning.</p>
 
-<h7>MY PROJECT IDEA - MISUSE OF PRESCRIPTION DRUGS</h7>
+<h2>MY PROJECT IDEA - MISUSE OF PRESCRIPTION DRUGS</h2>
 
 <p>In Australia the use of prescription drugs is an increasing problem. Pharmaceutical drugs have been the highest recurrent contributor to 
    overdose deaths within Australia. Australians who are affected by the dependence of prescription drugs find themselves going from doctor to 
@@ -128,7 +128,7 @@ body was no longer able to take the harsh impact of the sport.</p>
    community. This would then further assist doctors with being able to see those patients who truly need their care and attention and reduce 
    the number of pointless visits from prescription drug abusers.</p>
    
-<h8>REFERENCES</h8>
+<h3>REFERENCES</h3>
 
 <p>16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. 
 <a href="https://www.16personalities.com/free-personality-test">Free Personality Test</a></p>
