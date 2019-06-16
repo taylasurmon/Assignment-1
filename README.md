@@ -1,44 +1,30 @@
-# Assignment-1
 ASSIGNMENT 1
+
 Tayla Jean Surmon
+
 Student ID: S3801846
+
 Email: s3801846@student.rmit.edu.au 
 
 ABOUT ME:
 
 I am 24 years old born in Australia. My Mum is from Sydney and my Dad is from Papua New Guinea. I have 3 Older brothers and no sisters. 
-The only language that I know how to speak is English. I completed my year 12 certificate at St. Mary’s Catholic College in Cairns in 2012. 
-I have a Tier 2 in General Insurance Broking and currently working towards my Tier 2 in Banking. 
-I have a dog named Bruce and a cat named Mitsy who I absolutely adore. 
-Up until 2013 I was a Gymnast/Trampolinist and extremely enjoyed it. My early retirement from Gymnastics/Trampolining came in 2013 when I decided 
-that my knees and body was no longer able to take the harsh impact of the sport. 
+The only language that I know how to speak is English. I completed my year 12 certificate at St. Mary’s Catholic College in Cairns in 2012. I have a Tier 2 in General Insurance Broking and currently working towards my Tier 2 in Banking. 
+I have a dog named Bruce and a cat named Mitsy who I absolutely adore. Up until 2013 I was a Gymnast/Trampolinist and extremely enjoyed it. My early retirement from Gymnastics/Trampolining came in 2013 when I decided that my knees and body was no longer able to take the harsh impact of the sport. 
 
 HOW MY INTEREST IN IT BEGAN:
 
 Growing up I would say that I was one of the less fortunate kids in my area. We didn’t have high tech things such as dial-up broadband. 
-We dd however have a computer that looked like something you would pull from the 1980’s. My interest in IT started when I was playing around with a 
-simple product which was on nearly every computer called Paint. Paint was my life. At the young age of 6 I would sit in our spare room on the 
-computer playing around with paint for hours on end, trying to work out how it worked and all the different aspects of it. To some people you may be thinking 
-“this has nothing to do with IT”, but to me it does. This is what started my interest in mobile phones and gaming consoles which all have 
-something to do with IT. I may not be able to tell you what DOS means or how much Ram my computer has, but I can help you with setting it up and 
-getting it working and showing the in’s and out’s that you need to use your computer. 
+We dd however have a computer that looked like something you would pull from the 1980’s. My interest in IT started when I was playing around with a simple product which was on nearly every computer called Paint. Paint was my life. At the young age of 6 I would sit in our spare room on the computer playing around with paint for hours on end, trying to work out how it worked and all the different aspects of it. To some people you may be thinking “this has nothing to do with IT”, but to me it does. This is what started my interest in mobile phones and gaming consoles which all have something to do with IT. I may not be able to tell you what DOS means or how much Ram my computer has, but I can help you with setting it up and getting it working and showing the in’s and out’s that you need to use your computer. 
 
-I chose to study at RMIT because they are ranked in the top 250 Universities around the world. RMIT was the perfect choice for me not only because of 
-their high ranking, but because they had the ideal course that I was looking to study which no other University would offer online. 
-During my studies with RMIT I expect to learn the in’s and out’s of how to run a business (including the IT side of things) and how to be a 
-successful Financial Advisor. 
+I chose to study at RMIT because they are ranked in the top 250 Universities around the world. RMIT was the perfect choice for me not only because of their high ranking, but because they had the ideal course that I was looking to study which no other University would offer online. During my studies with RMIT I expect to learn the in’s and out’s of how to run a business (including the IT side of things) and how to be a successful Financial Advisor. 
 
 MY IDEAL JOB: 
 https://www.seek.com.au/job/39226215?type=standout&searchrequesttoken=5a95fbc2-8a37-44cc-a4af-f065810c23cc
 
  
 
-The role as a Senior Financial Advisor – Family Office Environment, is a position that highly interests me. This is a role that ideal to showcase my excellent track record of Consultative Sale Skills, 
-being able to hold myself accountable for the results I provide, wow my colleagues with my outstanding communication, presentation and interpersonal 
-skills as well as show that I can work individually as well as in a team environment. 
-Although at this point in time I have very limited knowledge in this industry, I have worked as an Insurance Brokers for 3 years and currently working
-in a big 4 bank as a personal banker. By participating and completing my Bachelor of Business majoring in Financial Planning I believe that this is just one small leap that I need 
-to take to begin my journey to be a successful Senior Financial Advisor. 
+The role as a Senior Financial Advisor – Family Office Environment, is a position that highly interests me. This is a role that ideal to showcase my excellent track record of Consultative Sale Skills, being able to hold myself accountable for the results I provide, wow my colleagues with my outstanding communication, presentation and interpersonal skills as well as show that I can work individually as well as in a team environment. Although at this point in time I have very limited knowledge in this industry, I have worked as an Insurance Brokers for 3 years and currently working in a big 4 bank as a personal banker. By participating and completing my Bachelor of Business majoring in Financial Planning I believe that this is just one small leap that I need to take to begin my journey to be a successful Senior Financial Advisor. 
 
 LEARNING STYLES: 
 The Myers and Briggs Personality Test (Courtesy of 16Personalities) 
@@ -55,13 +41,12 @@ What is your Learning Style? (Courtesy of Education Planner.org)
 
 WHAT HAVE I DISCOVERED ABOUT MY PERSONALITY, CREATIVNESS AND LEARNING STYLES?
 
-•	Taking the Myers and Briggs personality test, didn’t really explain things about myself that I didn’t already know, however I did       learn that when it comes to approaching work, planning and decision making I am what they call 
-  “Judging” meaning that I am decisive, thorough and highly organized. I Value clarity, predictability, closure, preferring structure     and planning to spontaneity. 
-•	In my Creativity test I learnt that creativity is one of my many strengths and innovative and crative minds are highly sought after. 
-  To my this came as a shock as I personally didn’t think I was a very creative person. Knowing this now means that 
+•	Taking the Myers and Briggs personality test, didn’t really explain things about myself that I didn’t already know, however I           did learn that when it comes to approaching work, planning and decision making I am what they call 
+        “Judging” meaning that I am decisive, thorough and highly organized. I Value clarity, predictability, closure, preferring               structure and planning to spontaneity. 
+•	In my Creativity test I learnt that creativity is one of my many strengths and innovative and crative minds are highly sought           after. To my this came as a shock as I personally didn’t think I was a very creative person. Knowing this now means that 
 	I can put my creativeness into action and start engaging more. 
 •	Learning that I am a person who needs to see and hear things to be able to learn doesn’t surprise me. 
-  Throughout high school I found that not only did I have to hear my teachers or peers say something, 
+        Throughout high school I found that not only did I have to hear my teachers or peers say something, 
 	I also had to read it either out loud or in my head before I fully understood what I was learning. 
 
 MY PROJECT IDEA – MISUSE OF PRESCIPTION DRUGS:
